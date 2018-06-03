@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hybrid-cryptography-sample", "hybrid-cryptography-sample\hybrid-cryptography-sample.csproj", "{BD1DEC20-74C5-435C-BB00-A6E1668429C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1DEC20-74C5-435C-BB00-A6E1668429C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1DEC20-74C5-435C-BB00-A6E1668429C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1DEC20-74C5-435C-BB00-A6E1668429C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1DEC20-74C5-435C-BB00-A6E1668429C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C1C46CA-87D3-429E-82A3-1ED9D5787DF4}
+	EndGlobalSection
+EndGlobal
